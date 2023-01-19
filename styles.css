@@ -1,2 +1,13 @@
+.row1,.row2,.row3,.row4{
+    display: -webkit-flex;
+    -webkit-flex-wrap: wrap;
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    width: 100%;
+}
 
-/* Your CSS Code here. */
+.col-sm-12 {
+    flex: 1;
+}
